@@ -1,0 +1,29 @@
+.color-special { 
+    background-color: rgb(221, 255, 205);
+}
+
+.banner-background{ 
+    background: url(Asset/The\ Natural\ Products\ That\ ACTUALLY\ Work\ on\ the\ Red\ Carpet.jpg) no-repeat center center;
+    background-size: cover;
+    color:rgb(0, 0, 0);
+    padding-top: 20%;
+    padding-bottom: 20%;   
+}
+.client-img {
+    height: auto;
+    max-height: 50px;
+}
+.tim-img {
+    width: 50px;
+    height: auto;
+    border: 10px solid #CCCCCC;
+}
+
+.section-background {
+    background: url(Asset/background.jpg) no-repeat center center;
+    background-size: cover;
+    color:rgb(0, 0, 0);
+    padding-top: 20%;
+    padding-bottom: 20%;
+    height: auto;
+}
